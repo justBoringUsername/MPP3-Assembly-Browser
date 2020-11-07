@@ -1,4 +1,4 @@
-namespace AssemblyBrowserLib
+﻿namespace AssemblyBrowserLib
 {
     public class TypeInfo : ContainerInfo
     {
